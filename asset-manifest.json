@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/reactpractice2/static/js/main.bf0740b8.js",
+    "static/js/787.6f966085.chunk.js": "/reactpractice2/static/js/787.6f966085.chunk.js",
+    "static/media/IMG_8929c.jpg": "/reactpractice2/static/media/IMG_8929c.7223b4d767c482857373.jpg",
+    "static/media/chickenFR.jpg": "/reactpractice2/static/media/chickenFR.2ead5f2ba7d359c0e73d.jpg",
+    "static/media/chickenFN.jpg": "/reactpractice2/static/media/chickenFN.2b0bc5d54053fef61a77.jpg",
+    "static/media/beefFN.jpg": "/reactpractice2/static/media/beefFN.fb51aa32bd93ca17af64.jpg",
+    "static/media/beefFR.jpg": "/reactpractice2/static/media/beefFR.cafcc66b1bd85ef267bd.jpg",
+    "index.html": "/reactpractice2/index.html",
+    "main.bf0740b8.js.map": "/reactpractice2/static/js/main.bf0740b8.js.map",
+    "787.6f966085.chunk.js.map": "/reactpractice2/static/js/787.6f966085.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bf0740b8.js"
+  ]
+}

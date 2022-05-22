@@ -1,0 +1,174 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  background: pink;
+  padding: 0 16px;
+}
+
+header {
+  background-color: green;
+  margin: auto -16px;
+  padding: 16px 32px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
+}
+
+header h1 {
+  color: white;
+  font-size: 30px;
+  padding: 10px;
+}
+
+header h2 {
+  color: yellow;
+  font-size: 25px;
+  padding: 10px;
+}
+
+header h3 {
+  color: yellowgreen;
+  text-decoration: underline;
+  font-size: 20px;
+  padding: 10px;
+}
+
+header p {
+  color: yellowgreen;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.header-clock {
+  color: blue;
+  font-size: 30px;
+  text-align: center;
+  margin: 2%;
+}
+
+.header-image-div {
+  text-align: center;
+}
+
+.header-image {
+  height: 100px;
+  border-radius: 100%;
+  margin: 1%;
+}
+
+.note {
+  background: lightgreen;
+  color: orangered;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+}
+
+.note h2 {
+  color: red;
+  font-size: 2em;
+  margin-bottom: 6px;
+  text-align: center;
+}
+
+.note p {
+  font-size: 1.1em;
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+  text-align: center;
+}
+
+.basket-note {
+  text-align: center;
+  background: rgb(173, 183, 238);
+  color: blue;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  margin: 10px;
+}
+
+.basket-total {
+  text-align: center;
+  background: rgb(238, 234, 173);
+  color: rgb(35, 13, 233);
+  border-radius: 10px;
+  box-shadow: 0 2px 5px #ccc;
+  padding: 10px;
+  margin: 10x;
+}
+
+.button-div {
+  text-align: center;
+}
+
+.button {
+  
+  font-size: 3rem;
+  text-align: center;
+  position: relative;
+  bottom: 0px;
+  background: yellow;
+  color: blueviolet;
+  border: none;
+  border-radius: 50%;
+  width: 200px;
+  height: 100px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  outline: none;
+}
+
+.button-basket-div {
+  text-align: center;
+}
+
+.button-basket {
+  font-size: 4rem;
+  position: relative;
+  bottom: 0px;
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 150px;
+  height: 75px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  outline: none;
+}
+
+.name h2 {
+  text-align: center;
+  font-size: 2em;
+  color: blue;
+  margin: 10px 0;
+}
+
+.name p {
+  text-align: center;
+  font-size: 1.5em;
+  color: red;
+  margin: 10px 0;
+}
+
+.note-circle-img {
+  border-radius: 50%;
+  border: 5px solid blue;
+  width: 350px;
+  height: 250px;
+  text-align: center;
+}
+
+.note-image-div {
+  text-align: center;
+}
